@@ -21,7 +21,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Fullstack Developer, building Web & Desktop apps  
-- :rocket: Exploring Cloud Platforms: Google Cloud & Azure  
+- :rocket: Exploring Cloud Platforms: Google Cloud   
 - :man_technologist: Learning Flutter for Mobile Apps  
 - :dart: Passionate about coding, databases, and new technologies  
 - :zap: Fun fact: I love sharing knowledge and collaborating on projects  
